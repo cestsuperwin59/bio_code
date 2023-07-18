@@ -1,6 +1,6 @@
+#!/bin/bash
 #run spades
 
-#!/bin/bash
 #SBATCH --job-name=spades
 #SBATCH --account=nn9305k
 #SBATCH --time=10:20:00
