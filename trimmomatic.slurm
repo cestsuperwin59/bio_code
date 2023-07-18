@@ -1,6 +1,5 @@
-#use with autotrim.sh
-
 #!/bin/bash
+#use with autotrim.sh
 
 ## Shows which project to use
 #SBATCH --account=nn9305k
