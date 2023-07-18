@@ -1,0 +1,3 @@
+#nextera trim command
+
+java -jar /mnt/c/Users/biobruker22/Downloads/Trimmomatic-0.36/trimmomatic-0.36.jar PE /mnt/c/Users/biobruker22/Downloads/Trimmomatic-0.36/F37P1_Win_S27_L001_R1_001.fastq.gz /mnt/c/Users/biobruker22/Downloads/Trimmomatic-0.36/F37P1_Win_S27_L001_R2_001.fastq.gz /mnt/c/Users/biobruker22/Downloads/Trimmomatic-0.36/F37P1_R1_paired.fq.gz /mnt/c/Users/biobruker22/Downloads/Trimmomatic-0.36/F37P1_R1_unpaired.fq.gz /mnt/c/Users/biobruker22/Downloads/Trimmomatic-0.36/F37P1_R2_paired.fq.gz /mnt/c/Users/biobruker22/Downloads/Trimmomatic-0.36/F37P1_R2_unpaired.fq.gz ILLUMINACLIP:/mnt/c/Users/biobruker22/Downloads/Trimmomatic-0.36/nextera.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 MINLEN:36
