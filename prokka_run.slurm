@@ -1,8 +1,6 @@
+#!/bin/bash 
 #refer to https://github.com/tseemann/prokka
 #Prokka: rapid prokaryotic genome annotation
-
-
-#!/bin/bash 
 
 #SBATCH --account=nn9305k 
 #SBATCH --time=48:00:00
